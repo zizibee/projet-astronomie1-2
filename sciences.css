@@ -39,6 +39,7 @@ div.sidebar {
 	color: grey;
 	font-size: 125%;
 	text-decoration: none;
+	text-align: left;
 }
 .dropcontainer:hover .droptions {
 	display: block;
