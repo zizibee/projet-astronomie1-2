@@ -113,6 +113,7 @@ table {
 .left {
 	float: left;
 }
+
 .container {
   position: relative;
   width: 49%;
@@ -153,4 +154,8 @@ table {
   width: 95%;
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
+}
+
+p.center	{
+	text-align: center;
 }
