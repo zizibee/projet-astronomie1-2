@@ -102,7 +102,6 @@ tr:nth-child(odd) {
 th {
 	background-color: black;
 	color: white;
-
 }
 table {
 	width: 100%;
@@ -113,19 +112,16 @@ table {
 .left {
 	float: left;
 }
-
 .container {
   position: relative;
   width: 49%;
   display: inline-block;
 }
-
 .image {
   display: block;
   width: 100%;
   height: auto;
 }
-
 .overlay {
   position: absolute;
   bottom: 100%;
@@ -137,12 +133,10 @@ table {
   height:0;
   transition: .5s ease;
 }
-
 .container:hover .overlay {
   bottom: 0;
   height: 100%;
 }
-
 .text {
   color: black;
   font-size: 46%;
@@ -155,11 +149,9 @@ table {
   transform: translate(-50%, -50%);
   -ms-transform: translate(-50%, -50%);
 }
-
 p.center	{
 	text-align: center;
 }
-
 iframe.center	{
 	text-align: center;
 }
