@@ -22,17 +22,7 @@ div.main {
 	height: 85%;
 	overflow-y: scroll;
 	position: fixed;
-}
-div.biblio {
-	background-color: lavender;
-	margin-left: 195px;
-	margin-right: 200px;
-	color: black;
-	padding: 25px;
-	height: 85%;
-	overflow-y: scroll;
-	position: fixed;
-	font-family: "Times New Roman", Times, serif;
+	width: calc(100% - 645px);
 }
 div.sidebar {
 	background-color: white;
